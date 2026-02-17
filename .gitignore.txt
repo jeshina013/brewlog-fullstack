@@ -1,0 +1,12 @@
+# Backend
+bin/
+obj/
+posts.db
+
+# Frontend
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
